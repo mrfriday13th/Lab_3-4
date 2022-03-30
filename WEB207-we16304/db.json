@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "title": "Đường cao tốc",
+      "content": "Đường cao tốc quốc lộ 15",
+      "status": "1",
+      "id": 2
+    },
+    {
+      "title": "Hà Nội tiêm vắc xin đợt tăng cường",
+      "content": "Ngày 3/9, Sở Y tế Hà Nội có Công văn số 13827/SYT-NVY về việc tiếp tục triển khai tiêm chủng vắc xin Covid-19 trên địa bàn thành phố Hà Nội đợt 12 gửi Trung tâm Kiểm soát bệnh tật thành phố; các bệnh viện trong và ngoài công lập; trung tâm y tế các quận, huyện, thị xã",
+      "status": "0",
+      "id": 3
+    }
+  ],
+  "students": [
+    {
+      "name": "",
+      "class": "",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "tuannda4",
+      "class": "WE16304"
+    },
+    {
+      "id": 3,
+      "name": "tuannda5",
+      "class": "WE16304"
+    },
+    {
+      "name": "tuannda6",
+      "class": "we16304",
+      "id": 4
+    },
+    {
+      "name": "tuannda7",
+      "class": "we16304",
+      "id": 5
+    },
+    {
+      "name": "tuannda8",
+      "class": "we16304",
+      "id": 6
+    },
+    {
+      "name": "tuannda34",
+      "class": "WE16304",
+      "id": 7
+    },
+    {
+      "name": "tuannda35",
+      "class": "WE16304",
+      "id": 8
+    },
+    {
+      "name": "",
+      "class": "",
+      "id": 9
+    }
+  ]
+}
